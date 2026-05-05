@@ -7,16 +7,17 @@ What tools I installed
 	•	Git
 
 Tools I attempted to install
-	•	Codex extension (not available in Marketplace in Cursor IDE)
+	•	Codex extension (not available in Cursor Marketplace)
 
 Steps I completed
 	•	Installed Cursor IDE
 	•	Opened Marketplace and searched for extensions
 	•	Installed Node.js and npm
 	•	Installed Claude Code using terminal
-	•	Created a repository in GitHub
+	•	Created a repository on GitHub
 	•	Cloned the repository locally
 	•	Created and edited README.md
+	•	Committed and pushed changes
 
 Issues I ran into
 	•	Claude extension not visible in Marketplace
@@ -27,5 +28,5 @@ Issues I ran into
 How I solved them
 	•	Installed Node.js to enable npm
 	•	Installed Claude Code via terminal
-	•	Fixed POSIX configuration in terminal
-	•	Continued setup without Codex since it was not available
+	•	Fixed POSIX configuration
+	•	Continued setup without Codex

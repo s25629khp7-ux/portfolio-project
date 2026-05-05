@@ -1,15 +1,18 @@
 # portfolio-project
 
 What tools I installed
+
 	•	Cursor IDE
-	•	Claude Code (installed via terminal)
+	•	Claude Code installed via terminal
 	•	Node.js
 	•	Git
 
 Tools I attempted to install
-	•	Codex extension (not available in Cursor Marketplace)
+
+	•	Codex extension not available in Cursor Marketplace
 
 Steps I completed
+
 	•	Installed Cursor IDE
 	•	Opened Marketplace and searched for extensions
 	•	Installed Node.js and npm
@@ -20,12 +23,14 @@ Steps I completed
 	•	Committed and pushed changes
 
 Issues I ran into
+
 	•	Claude extension not visible in Marketplace
 	•	Codex extension not found
 	•	npm not installed
 	•	POSIX error in terminal
 
 How I solved them
+
 	•	Installed Node.js to enable npm
 	•	Installed Claude Code via terminal
 	•	Fixed POSIX configuration
